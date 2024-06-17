@@ -15,11 +15,15 @@ Status: Finalizado 🏆
 
 ![image](https://github.com/Talinha/Desafio_DIO_PowerBI_Azure/assets/121242992/fdb01042-c32c-480d-9978-3db2db5c6da9)
 
-### 2. Criação de um banco de dados Mysql:
+### 2. Criação de um banco de dados MySQL:
 
 Criação das tabelas:  
 
+
 População das tabelas:  
+
+[SQL/insercao_de_dados_e_queries_sql.sql](https://github.com/Talinha/Desafio_DIO_PowerBI_Azure/blob/main/SQL/insercao_de_dados_e_queries_sql.sql)
+
 
 ### 3.	Integração do Power BI com MySQL no Azure:
 
