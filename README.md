@@ -1,3 +1,5 @@
+# Projeto Integrado Power BI vs. Azure MySQL
+
 Status: Finalizado 🏆
 
 
@@ -6,7 +8,7 @@ Status: Finalizado 🏆
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-# Objetivo do Projeto:
+## Objetivo do Projeto:
 
 
 1.	Criar  uma instância na Azure para MySQL
